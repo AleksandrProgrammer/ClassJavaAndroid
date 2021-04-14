@@ -1,2 +1,0 @@
-# ClassJavaAndroid
-My Project Android
